@@ -3,7 +3,8 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    /* i am not sure why my background image is not feeding through */
+    background-image:url(purty_wood.png);
 }
 
   
@@ -81,7 +82,8 @@ body {
   nav {
     float: right;
     margin-top: 25px;
-    <nav class="navbar navbar-dark bg-dark">
+    navbar-dark 
+    bg-dark
                   
   }
   
